@@ -1,0 +1,14 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+data/
+models/
+.pytest_cache/
+.coverage
+.DS_Store
+docs/superpowers/
+screenshot*.png
